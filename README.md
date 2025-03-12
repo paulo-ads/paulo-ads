@@ -96,5 +96,3 @@
 </p>
 <br><br>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulo-ads&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="paulo-ads" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-ads&show_icons=true&theme=dark&locale=pt-br" alt="paulo-ads" /></div>
